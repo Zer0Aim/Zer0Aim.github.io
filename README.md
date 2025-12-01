@@ -3,7 +3,7 @@
 <div align="center">
   <h2>Watch My Portfolio Video</h2>
   
-  <a href="https://drive.google.com/file/d/1akh_qJO-IO8OViG-yT0mw00xETPZzMsH/view">
+  <a href="https://drive.google.com/file/d/10UyRMWeklDV_5UOgoGHqyehTaAAu_BO6/preview">
     <img src="https://path/to/your/video-thumbnail.png" alt="Play Video - Google Drive Link" width="600"/>
   </a>
   
